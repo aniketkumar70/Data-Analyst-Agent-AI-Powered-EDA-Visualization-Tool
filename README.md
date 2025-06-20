@@ -1,5 +1,4 @@
-# Data-Analyst-Agent-AI-Powered-EDA-Visualization-Tool-
-# 🤖 Data Analyst Agent
+#🤖 Data-Analyst-Agent-AI-Powered-EDA-Visualization-Tool
 
 This project implements a **Data Analyst Agent** using Python, designed to automate key tasks in data analysis workflows. It can ingest datasets, analyze and visualize data, and assist with exploratory data analysis (EDA), providing a foundation for more advanced data science or AI-assisted analytics.
 
